@@ -29,14 +29,14 @@
 
 
 html {
-    background: #202023;
+    background: #fff8f1;
     font-family: 'BioRhyme', serif;
-    color: #ededed;
+    color: #f76a51;
 }
 
 a {
     text-decoration: none;
-    color:#ededed;
+    color:#f76a51;
 }
 
 
@@ -54,11 +54,11 @@ a {
 }
 
 a:hover {
-    text-decoration: underline #fff;
+    text-decoration: underline #f76a51;
 }
 
 .ana {
-    background-color: #323234;
+    background-color: #FBCAA9;
 
     padding: 1rem;
     margin: 0 auto;
@@ -77,7 +77,7 @@ a:hover {
 }
 
 .baslik {
-    border-bottom:5px solid #525252;
+    border-bottom:5px solid #ffb026;
     margin-top: 2rem;
     margin-bottom: 1rem;
     display: inline-block;
@@ -97,7 +97,11 @@ span{
 }
 .web ul li a{
     text-decoration: none;
-    color:#ffb6c1;
+    color:#F8755D;
+    
+}
+.web ul li a:hover{
+    color: #fff;
     
 }
 .web{
